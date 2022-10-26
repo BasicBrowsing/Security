@@ -10,7 +10,11 @@
 
 <br>
 
-1.  Create a **[Session]** account.
+1.  Download the **[Session]** app.
+
+    <br>
+
+2.  Generate a new account.
 
     <br>
 
